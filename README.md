@@ -13,4 +13,7 @@ L'objectif est de créer un site permettant la visualisation de livres ayant un 
 
 Périmétre
 
+Fournir des éléments qui permettront aux clients de se faire une idée sur l'apparence finale du site. 
+
 Références
+
